@@ -1,10 +1,9 @@
 #1
-'''
+
 from posixpath import split
 
-
 print('숫자 입력')
-A, B = map(int, input().split())
+A, B = input().split()
 
 if A > B :
     print('>')
@@ -12,7 +11,7 @@ elif A < B :
     print('<')
 else :
     print('==')
-'''
+
 # 질문 : 변수 두 개에 각각 맵핑하는 것 말고 다른 방법?
 
 #2
