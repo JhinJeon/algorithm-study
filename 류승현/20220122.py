@@ -125,6 +125,13 @@ def d(a):
 
 a = list()
 for i in range(1,10001):
+    a.append(d(i))
+
+c = list(set(a))
+
+for j in range(1,10001):
+    if j not in c:
+        print(j)
 """
 
 # 한수 - 문제 이해가 안되여....
