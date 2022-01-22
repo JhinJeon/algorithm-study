@@ -66,7 +66,7 @@ while(True):
         print(a+b)
     except:
         break
-#1110번(while문 3번)
+#1110번(while문 3번) 
 
 num=int(input())
 start=num
