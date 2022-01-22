@@ -1,4 +1,4 @@
-#최소 최대
+# 최소 최대
 """
 a = int(input())
 num = list(map(int,input().split()))
@@ -59,7 +59,7 @@ result = set(a)
 print(len(result))
 """
 
-#평균
+# 평균
 """
 a = int(input())
 score = list(map(int,input().split()))
