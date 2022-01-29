@@ -117,10 +117,10 @@ a = solve([10, 20, 30])
 print(a)
 """
 
-# 셀프 넘버 - 문제 이해가 안되여....
+# 셀프 넘버 - https://zetawiki.com/wiki/%EC%85%80%ED%94%84_%EB%84%98%EB%B2%84(참고)
 """
 def d(a):
-    a = a + sum(list(map(int,str(a))))
+    a = a + sum(map(int,str(a)))
     return a
 
 a = list()
@@ -135,3 +135,21 @@ for j in range(1,10001):
 """
 
 # 한수 - 문제 이해가 안되여....
+
+
+def total(num):
+    
+    count = 0
+
+    for i in range(1,num+1):
+        if i < 100:
+            count += 1
+        else:
+            a = list(map(int,str(i)))
+            if (a[0]-a[1]) == (a[1]-a[2]):
+                count+=1
+    return count            
+
+num = int(input())
+print(total(num))    
+
