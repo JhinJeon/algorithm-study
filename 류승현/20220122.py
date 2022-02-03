@@ -136,7 +136,7 @@ for j in range(1,10001):
 
 # 한수 - 문제 이해가 안되여....
 
-
+'''
 def total(num):
     
     count = 0
@@ -153,3 +153,4 @@ def total(num):
 num = int(input())
 print(total(num))    
 
+'''

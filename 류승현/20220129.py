@@ -93,6 +93,7 @@ count = 0
 for i in alpabet:
     if i in a :
         a = a.replace(i,"a")
+        
 
 for j in a:
     count+= 1
@@ -100,3 +101,26 @@ print(count)
 """
 
 # 그룹 단어 체커
+"""
+a = int(input())
+count = 0
+b = list()
+c = list()
+
+for i in range(a):
+    d = input()
+    
+    e = d[0]
+    b = [e,]
+    for j in d:
+            
+        if e != j:
+            b.append(j)
+            e = j
+    b = sorted(b)
+    c = sorted(set(b))
+    
+    if b == c:
+        count+=1
+print(count) 
+"""
