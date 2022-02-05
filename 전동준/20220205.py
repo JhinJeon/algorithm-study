@@ -52,19 +52,21 @@ else:
 print(a, '/', b, sep='')
 '''
 # 4 달팽이는 올라가고 싶다
-'''
+
 numlist = input().split()
 A = int(numlist[0])
 B = int(numlist[1])
 V = int(numlist[2])
 start = 0
 day = 1
-while start < V:
+while True:
     start += A
-    if start < V:
-        start -= B
-        day += 1
+    if start >= V:
+        break
+    start -= B
+    day += 1
 print(day)
+'''
 # math 함수 이용(시간초과 방지)
 import math
 
@@ -99,6 +101,7 @@ for i in range(T):
         n += 1
         temp2 += 1
     print(temp3)
+
 #정답(구글링 결과)
 t = int(input())
 
