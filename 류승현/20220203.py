@@ -32,6 +32,25 @@ print(count)
 """
 
 # 분수찾기 - 모르것소
+
+x=int(input())
+num=0
+num_cnt=0
+numberth=0
+while True:
+    num_cnt+=1
+    num+=num_cnt
+    if num>=x:
+        numberth=num-x+1
+        break
+if num_cnt%2==0: #짝수
+    i=numberth
+    j=num_cnt-numberth+1
+    print(f"{j}/{i}")
+else:
+    i=num_cnt-numberth+1
+    j=numberth
+    print(f"{j}/{i}")
 # n = int(input())
 
 # count = 1
