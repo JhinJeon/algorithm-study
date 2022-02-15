@@ -32,4 +32,4 @@ def h_tower(n,start,end): #n은 옮길 막대번호
     h_tower(n-1,6-start-end,end)
 num=int(sys.stdin.readline())
 print(2**num-1)
-h_tower(num,1,3)'''
+h_tower(num,1,3)''' 
