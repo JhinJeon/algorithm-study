@@ -31,3 +31,32 @@ right=max(tree)
 result=0
 print(binary_search(tree))
 
+'''
+
+
+import sys
+import time
+start = time.time()  # 시작 시간 저장
+N, M = map(int, sys.stdin.readline().split())
+treelist = list(map(int, sys.stdin.readline().split()))
+start = 0
+end = max(treelist)
+
+result=0
+while start <= end:
+    mid = (start+end)//2
+    rest = 0
+    # for i in treelist:
+    #     if i-mid > 0:
+    #         rest += i-mid
+    rest = sum(i-mid if i > mid else 0 for i in treelist)
+    if rest >= M:
+        result=mid
+        start = mid+1
+    else:
+        end = mid-1
+        
+
+print(result)
+
+'''
