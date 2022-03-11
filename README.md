@@ -2,7 +2,7 @@
 
 날짜 | 번호 | 문제 | 분류 | 풀이 | 느낀점 | 다시보기
 --- |--- |--- |--- |--- |--- |:---:|
-20220303 |  1789 | [수들의합(실버5)](https://www.acmicpc.net/problem/1789){:target="_blank"} | 이진트리 | 김,이,전,[조](../main/조우석/검색알고리즘/1789_수들의합.py) | [느낀점](../main/느낀점/20220303.py) | 
+20220303 |  1789 | [수들의합(실버5)](https://www.acmicpc.net/problem/1789) | 이진트리 | 김,이,전,[조](../main/조우석/검색알고리즘/1789_수들의합.py) | [느낀점](../main/느낀점/20220303.py) | 
 20220303 |  1920 | [수찾기(실버4)](https://www.acmicpc.net/problem/1920) | 이진트리 | 김,이,전,[조](../main/조우석/검색알고리즘/1920_수찾기.py) | | 
 20220303 |  2776 | [암기왕(실버4)](https://www.acmicpc.net/problem/2776) | 이진트리 | 김,이,전,[조](../main/조우석/검색알고리즘/2776_암기왕.py) | | 
 20220303 |  2805 | [나무자르기(실버3)](https://www.acmicpc.net/problem/2805) | 이진트리 | 김,이,전,[조](../main/조우석/검색알고리즘/2805_나무자르기.py) | | 
@@ -17,4 +17,4 @@
 20220310 |  10828 | [스택(실버4)](https://www.acmicpc.net/problem/10828) | 스택 | 김,이,전,[조](../main/조우석/스택과큐/10828_스택.py) | | 
 20220310 |  23253 | [자료구조는정말최고야(실버5)](https://www.acmicpc.net/problem/23253) | 스택 | 김,이,전,[조](../main/조우석/스택과큐/25253_자료구조는정말최고야.py) | | 
 
-[decoding](https://meyerweb.com/eric/tools/dencoder/){:target="_blank"}
+[decoding](https://meyerweb.com/eric/tools/dencoder/)
