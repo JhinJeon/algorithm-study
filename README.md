@@ -2,7 +2,7 @@
 
 날짜 | 번호 | 문제 | 분류 | 풀이 | 느낀점
 --- |--- |--- |--- |--- |--- |
-20220303 |  1789 | [수들의합](https://www.acmicpc.net/problem/1789) | 이진트리 | 김,이,전,[조](https://github.com/Python-Algorithm-Study-10th/algorithm-study/blob/main/%EC%A1%B0%EC%9A%B0%EC%84%9D/%EA%B2%80%EC%83%89%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/1789_%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9.py) | [느낀점](https://github.com/Python-Algorithm-Study-10th/algorithm-study/blob/main/%EB%8A%90%EB%82%80%EC%A0%90/20220303.py)
+20220303 |  1789 | [수들의합(실1)](https://www.acmicpc.net/problem/1789) | 이진트리 | 김,이,전,[조](https://github.com/Python-Algorithm-Study-10th/algorithm-study/blob/main/%EC%A1%B0%EC%9A%B0%EC%84%9D/%EA%B2%80%EC%83%89%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/1789_%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9.py) | [느낀점](https://github.com/Python-Algorithm-Study-10th/algorithm-study/blob/main/%EB%8A%90%EB%82%80%EC%A0%90/20220303.py)
 20220303 |  1920 | [수찾기](https://www.acmicpc.net/problem/1920) | 이진트리 | 김,이,전,[조](https://github.com/Python-Algorithm-Study-10th/algorithm-study/blob/main/%EC%A1%B0%EC%9A%B0%EC%84%9D/%EA%B2%80%EC%83%89%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/1920_%EC%88%98%EC%B0%BE%EA%B8%B0.py) | 
 20220303 |  2776 | [암기왕](https://www.acmicpc.net/problem/2776) | 이진트리 | 김,이,전,[조](https://github.com/Python-Algorithm-Study-10th/algorithm-study/blob/main/%EC%A1%B0%EC%9A%B0%EC%84%9D/%EA%B2%80%EC%83%89%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2776_%EC%95%94%EA%B8%B0%EC%99%95.py) | 
 20220303 |  2805 | [나무자르기](https://www.acmicpc.net/problem/2805) | 이진트리 | 김,이,전,[조](https://github.com/Python-Algorithm-Study-10th/algorithm-study/blob/main/%EC%A1%B0%EC%9A%B0%EC%84%9D/%EA%B2%80%EC%83%89%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/2805_%EB%82%98%EB%AC%B4%EC%9E%90%EB%A5%B4%EA%B8%B0.py) | 
