@@ -18,3 +18,4 @@
 20220310 |  23253 | [자료구조는정말최고야(실버5)](https://www.acmicpc.net/problem/23253) | 스택 | 김,이,전,[조](../main/조우석/스택과큐/25253_자료구조는정말최고야.py) | | 
 
 [decoding](https://meyerweb.com/eric/tools/dencoder/)
+<a href="https://meyerweb.com/eric/tools/dencoder/" target="_blank">decoding</a>
