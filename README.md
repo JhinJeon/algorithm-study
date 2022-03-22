@@ -19,6 +19,7 @@
 20220322 |  1003 | [피보나치함수(실버3)](https://www.acmicpc.net/problem/10003) | 재귀 | 김,이,전,[조](../main/조우석/스택과큐/1003_피보나치함수.py) | | V
 20220322 |  10994 | [별찍기-19(실버4)](https://www.acmicpc.net/problem/10994) | 재귀 | 김,이,전,[조](../main/조우석/스택과큐/10994_별찍기_19.py) | | V
 20220322 |  5568 | [카드놓기(실버4)](https://www.acmicpc.net/problem/5568) | 재귀 | 김,이,전,[조](../main/조우석/스택과큐/5568_카드놓기.py) | | V
-20220322 |  17478 | 재귀함수가뭔가요[(실버5)](https://www.acmicpc.net/problem/17478) | 재귀 | 김,이,전,[조](../main/조우석/스택과큐/17478_재귀함수가뭔가요.py) | | 
+20220322 |  17478 | [재귀함수가뭔가요(실버5)](https://www.acmicpc.net/problem/17478) | 재귀 | 김,이,전,[조](../main/조우석/스택과큐/17478_재귀함수가뭔가요.py) | | 
 
 [decoding](https://meyerweb.com/eric/tools/dencoder/)
+[test](주소)
