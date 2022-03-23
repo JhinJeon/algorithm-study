@@ -8,4 +8,4 @@ s=deque([1,2,3])
 #print(s.pop()) # 맨뒤에꺼 뺀다
 # print(s.popleft()) # 맨앞꺼 빼낸다
 # print(s.index(2))
-print(s)
+# print(s)
