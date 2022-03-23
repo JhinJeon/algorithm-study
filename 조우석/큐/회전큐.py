@@ -29,7 +29,7 @@ for i in range(M):
             que.rotate(-num)
             cnt+=num  
         que.popleft()    # idx값 빼기
-              
+               
         
                                           #왼쪽->오른쪽
         
