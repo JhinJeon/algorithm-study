@@ -25,10 +25,15 @@
 -|  5568   | [카드놓기(실버4)](https://www.acmicpc.net/problem/5568) | 재귀 | 김,이,전,[조](../main/조우석/재귀/5568_카드놓기.py) | | V
 -|  17478  | [재귀함수가뭔가요(실버5)](https://www.acmicpc.net/problem/17478) | 재귀 | 김,이,전,[조](../main/조우석/재귀/17478_재귀함수가뭔가요.py) | | 
 2022/03/25 | | | | | | 
--|  10845  | [큐(실버4)](https://www.acmicpc.net/problem/10845) | 큐 | 김,이,전,[조](../main/조우석/큐/10845_큐.py) | | 
+-|  10845  | [큐(실버4)](https://www.acmicpc.net/problem/10845) | 큐 | 김,이,[전](../main/전동준/0325_큐/10842_큐.py),[조](../main/조우석/큐/10845_큐.py) | | 
 -|  12873  | [기념품(브론즈2)](https://www.acmicpc.net/problem/12873) | 큐 | 김,이,전,[조](../main/조우석/큐/12873_기념품.py) | | 
 -|  18258  | [큐2(실버4)](https://www.acmicpc.net/problem/18258) | 큐 | 김,이,전,[조](../main/조우석/큐/18258_큐2.py) | | 
 -|  1021   | [회전하는큐(실버4)](https://www.acmicpc.net/problem/1021) | 큐 | 김,이,전,[조](../main/조우석/큐/1021_회전하는큐.py.py) | | 
+2022/03/28 | | | | | | 
+-|  1427  | [소트인사이드(실버5)](https://www.acmicpc.net/problem/1427) | 정렬 | 김,이,전,조 | | 
+-|  1431  | [시리얼 번호(실버3)](https://www.acmicpc.net/problem/1431) | 정렬 | 김,이,전,조 | | 
+-|  2170  | [선 긋기(골드5)](https://www.acmicpc.net/problem/2170) | 정렬 | 김,이,전,조 | | 
+-|  11508  | [2+1 세일(실버4)](https://www.acmicpc.net/problem/11508) | 정렬 | 김,이,전,조 | | 
 
 [decoding](https://meyerweb.com/eric/tools/dencoder/)
 [test](주소)
