@@ -1,4 +1,4 @@
-# 직접 작성해 본 코드
+# 직접 작성해 본 코드(시간 초과)
 from sys import stdin
 
 n = int(stdin.readline())
