@@ -1,4 +1,5 @@
-# 직접 작성한 코드
+# 작성한 코드
+
 from sys import stdin
 from collections import deque # 리스트 맨 앞의 값을 쉽게 처리하기 위해 사용
 k = int(stdin.readline())
