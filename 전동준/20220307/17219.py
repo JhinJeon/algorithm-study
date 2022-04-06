@@ -9,7 +9,7 @@ n, m = stdin.readline().split()
 for i in range(n):
     dns, passwd = (stdin.readline().split())
 
-for j in range(m):
+#for j in range(m):
 
 
 # 구글링 결과
