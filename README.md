@@ -37,6 +37,11 @@
 2022/04/07 | | | | | | 
 -|  5800  | [성적 통계(실버5)](https://www.acmicpc.net/problem/5800) | 정렬 | 김,이,[전](../main/전동준/0407_정렬2/5800_성적통계.py),조 | | 
 -|  1246  | [온라인 판매(실버4)](https://www.acmicpc.net/problem/1431) | 정렬 | 김,이,[전](../main/전동준/0407_정렬2/1246_온라인판매.py),조 | | 
+2022/04/11 | | | | | | 
+-|  2798  | [블랙잭(브론즈2)](https://www.acmicpc.net/problem/2798) | 브루트포스 | 김,이,전,조 | | 
+-|  2241  | [분해합(브론즈2)](https://www.acmicpc.net/problem/2241) | 브루트포스 | 김,이,전,조 | | 
+-|  7568  | [덩치(실버5)](https://www.acmicpc.net/problem/7568) | 브루트포스 | 김,이,전,조 | | 
+
 
 [decoding](https://meyerweb.com/eric/tools/dencoder/)
 [test](주소)
