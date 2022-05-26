@@ -20,7 +20,7 @@ def solution(x,y):
 result = 0
 for i in range(n):
     for j in range(m):
-        if graph[i][j] == 0:
+        if solution(j,i) == 0:
             result += 1
             
 print(result)
